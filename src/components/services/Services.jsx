@@ -40,7 +40,7 @@ const Services = () => {
 
         <article className="service">
             <div className="service__head">
-              <h3>Diseño UI/UX</h3>
+              <h3>Web Development</h3>
             </div>
 
             <ul className="service__list">
@@ -69,7 +69,7 @@ const Services = () => {
 
         <article className="service">
             <div className="service__head">
-              <h3>Diseño UI/UX</h3>
+              <h3>Content Creation</h3>
             </div>
 
             <ul className="service__list">
