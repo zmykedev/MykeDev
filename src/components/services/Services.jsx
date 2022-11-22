@@ -15,83 +15,91 @@ const Services = () => {
             </div>
 
             <ul className="service__list">
-              <li>
+            <li>
                   <BiCheck  className='service__list-icon'/>
-                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+                  <p>Diseño de pagina web.</p>
               </li>
               <li>
                   <BiCheck  className='service__list-icon'/>
-                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+                  <p>Diseño de pagina web responsive.</p>
               </li>
               <li>
                   <BiCheck  className='service__list-icon'/>
-                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+                  <p>Actualización y rediseño web.</p>
               </li>
               <li>
                   <BiCheck  className='service__list-icon'/>
-                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+                  <p>Integración de elementos de diseño.</p>
               </li>
               <li>
                   <BiCheck  className='service__list-icon'/>
-                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
-              </li>  
+                  <p>Mejorar el proceso de usuario.</p>
+              </li>
+             
+           
             </ul>
         </article>
 
         <article className="service">
             <div className="service__head">
-              <h3>Web Development</h3>
+              <h3>Desarrollo Web</h3>
             </div>
 
             <ul className="service__list">
+            <li>
+                  <BiCheck  className='service__list-icon'/>
+                  <p>Administración de la pagina web.</p>
+              </li>
+
               <li>
                   <BiCheck  className='service__list-icon'/>
-                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+                  <p>Sistema de autenticación.</p>
               </li>
               <li>
                   <BiCheck  className='service__list-icon'/>
-                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+                  <p>Integración de base de datos en AWS.</p>
               </li>
               <li>
                   <BiCheck  className='service__list-icon'/>
-                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+                  <p>Sistemas solicitudes API.</p>
               </li>
               <li>
                   <BiCheck  className='service__list-icon'/>
-                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+                  <p>Integraciones.</p>
               </li>
               <li>
                   <BiCheck  className='service__list-icon'/>
-                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
-              </li>  
+                  <p>Mantenimiento web.</p>
+              </li>
+            
             </ul>
         </article>
 
         <article className="service">
             <div className="service__head">
-              <h3>Content Creation</h3>
+              <h3>Creacion de contenido</h3>
             </div>
 
             <ul className="service__list">
               <li>
                   <BiCheck  className='service__list-icon'/>
-                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+                  <p>Creación de código limpio y mantenible</p>
               </li>
               <li>
                   <BiCheck  className='service__list-icon'/>
-                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+                  <p>HTML integrado con CSS</p>
               </li>
               <li>
                   <BiCheck  className='service__list-icon'/>
-                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+                  <p>Elementos y características interactivas mediante Javascript.</p>
               </li>
               <li>
                   <BiCheck  className='service__list-icon'/>
-                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+                  <p>Estructuras HTML con código Javascript mediante React.</p>
               </li>
               <li>
                   <BiCheck  className='service__list-icon'/>
-                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+                  <p>Combinación de CSS y Javascript mediante Bootstrap.</p>
               </li>  
             </ul>
         </article>

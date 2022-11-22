@@ -1,5 +1,4 @@
 header{
-    height: 100vh;
     padding-top: 7rem;
     overflow: hidden;
     
@@ -59,6 +58,13 @@ header{
    
     
 }
+
+.comic {
+    height: 400px;
+    width: 170px;
+    border-radius: 22rem 22rem 0 0;
+}
+
 
 /*	===================== SCROLL DOWN ====================*/
 
